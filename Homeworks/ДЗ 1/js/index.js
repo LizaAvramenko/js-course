@@ -7,7 +7,7 @@ alert (userName+' '+ userSurname )
 */
 
 
-/*5 задача
+/*5
 function areaRectangle (width, length) {
     let area = width*length;
     return area;
