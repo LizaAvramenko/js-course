@@ -1,5 +1,50 @@
 
+// //1
 
+// function sum(a, b) {
+//     return a + b;
+// }
+
+// const firstNumber = +prompt ("Введите любое число");
+  
+// const secondNumber = +prompt ("Введите любое число");
+// if ( isNaN(firstNumber) || isNaN(secondNumber) ) {
+//     alert ('Not correct')
+// }
+
+// else {
+//     let result = sum  (firstNumber, secondNumber)
+//     alert (result)
+// }
+
+
+// //2
+// const userNames = ['Vasya', 'Petya', 'Masha'];
+
+// for (let i = 0; i < userNames.length; i++) {
+//    sayHiToUser(userNames[i])
+// }
+
+// function sayHiToUser(name) {
+//     let sayHiToUser = 'Hello, ' +  name ;
+//     alert (sayHiToUser)
+// }
+
+
+ 
+// //3
+
+// function multiply (a, b) {
+//     return (a * b)
+// }
+  
+// const numbersArray = [1, 2, 3];
+
+// for (i=0; i < numbersArray.length; i++) {
+//   alert(multiply(numbersArray[i], i));
+// }
+  
+ 
 
 //4
  
